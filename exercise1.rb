@@ -56,5 +56,5 @@
 # print greet_backwards("Andy")
 
 
-#EXERCISE 6
+
 
